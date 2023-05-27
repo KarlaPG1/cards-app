@@ -1,0 +1,8 @@
+.App {
+height: 100vh;
+background: rgb(238,174,202);
+background: -moz-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(198,148,233,1) 100%);
+background: -webkit-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(198,148,233,1) 100%);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(198,148,233,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#eeaeca",endColorstr="#c694e9",GradientType=1);
+}
